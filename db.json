@@ -1,0 +1,78 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "HTML/CSS",
+      "content": "Docs HTML",
+      "image": "asdsadsadsadasd"
+    },
+    {
+      "id": 2,
+      "title": "HTML/CSS",
+      "content": "Docs HTML",
+      "image": "asdsadsadsadasd"
+    },
+    {
+      "id": 3,
+      "title": "HTML/CSS",
+      "content": "Docs HTML",
+      "image": "asdsadsadsadasd"
+    },
+    {
+      "id": 4,
+      "title": "HTML/CSS",
+      "content": "Docs HTML",
+      "image": "asdsadsadsadasd"
+    },
+    {
+      "id": 5,
+      "title": "HTML/CSS",
+      "content": "Docs HTML",
+      "image": "asdsadsadsadasd"
+    },
+    {
+      "id": 6,
+      "title": "HTML/CSS",
+      "content": "Docs HTML",
+      "image": "asdsadsadsadasd"
+    },
+    {
+      "id": 7,
+      "title": "HTML/CSS",
+      "content": "Docs HTML",
+      "image": "asdsadsadsadasd"
+    },
+    {
+      "id": 8,
+      "title": "HTML/CSS",
+      "content": "Docs HTML",
+      "image": "asdsadsadsadasd"
+    },
+    {
+      "id": 9,
+      "title": "HTML/CSS",
+      "content": "Docs HTML",
+      "image": "asdsadsadsadasd"
+    },
+    {
+      "id": 10,
+      "title": "HTML/CSS",
+      "content": "Docs HTML",
+      "image": "asdsadsadsadasd"
+    },
+    {
+      "id": 11,
+      "title": "HTML/CSS",
+      "content": "Docs HTML",
+      "image": "asdsadsadsadasd"
+    },
+    {
+      "title": "ABC",
+      "content": "MMM",
+      "image": "sadsad",
+      "createdAt": 1671354691164,
+      "updatedAt": 1671354691164,
+      "id": 12
+    }
+  ]
+}
